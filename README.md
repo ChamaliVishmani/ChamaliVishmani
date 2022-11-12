@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChamaliVishmani
-- 👀 I’m interested in web and mobiel development
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me chamali106astro@gmail.com
 
