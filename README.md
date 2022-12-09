@@ -3,7 +3,7 @@
 </div>
 
 # Hi, I’m Chamali Vishmani 👋
-## I’m a Computer Engineering Undergraduate
+## I’m a Computer Engineering Undergraduate 🌱 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chamali-vishmani-221344202">
