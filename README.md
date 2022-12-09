@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 </div>
 
 # Hi, I’m Chamali Vishmani 👋
