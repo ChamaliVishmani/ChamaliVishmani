@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 </div>
 
-<p allign="center">
+<p align="center">
 - 👋 Hi, I’m @ChamaliVishmani
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning computer engineering
