@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
 </div>
 
-# Hi, I’m Chamali Vishmani 👋
-## I’m a Computer Engineering Undergraduate 🌱 
+   # Hi, I’m Chamali Vishmani 👋
+   #### I’m a Computer Engineering Undergraduate 🌱 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chamali-vishmani-221344202">
