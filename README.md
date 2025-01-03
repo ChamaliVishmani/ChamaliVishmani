@@ -9,7 +9,7 @@ I am passionate about software development and innovation. With a knack for solv
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/chamali-vishmani-221344202" target="_blank">
+  <a href="https://www.linkedin.com/in/chamali-vishmani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://cat-beret-35c.notion.site/Project-Portfolio-1616a239b7148036822ecae5365cd668" target="_blank">
